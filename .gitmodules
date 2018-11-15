@@ -1,0 +1,6 @@
+[submodule "redis"]
+	path = redis
+	url = https://github.com/antirez/redis
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/cloudwu/skynet.git
